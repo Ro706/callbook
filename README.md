@@ -46,6 +46,4 @@ Jane Smith,987-654-3210
 
 ### Developed by:
 
-(Replace with your name or organization)
-
-**Enjoy managing your phone contacts with this Python Phone Book application!**
+Ro706
